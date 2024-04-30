@@ -1,0 +1,14 @@
+﻿<Window x:Class="GoogleMapsInWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        xmlns:local="clr-namespace:GoogleMapsInWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <m:Map CredentialsProvider="zpgydeE47eexfhX2ej55~FKHiqoBeunJAc_-myn-M7Q~Alnal1Hic5tSTDaSHQ-RWu1klC_U0fJ9iNXCfEPWOiGeGSS_judtCiQy1crsW1Or" Center="28.6139, 77.2090" ZoomLevel="16" />
+    </Grid>
+</Window>
+   
