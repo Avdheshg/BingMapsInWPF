@@ -8,7 +8,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        
         <m:Map CredentialsProvider="zpgydeE47eexfhX2ej55~FKHiqoBeunJAc_-myn-M7Q~Alnal1Hic5tSTDaSHQ-RWu1klC_U0fJ9iNXCfEPWOiGeGSS_judtCiQy1crsW1Or" Center="28.6139, 77.2090" ZoomLevel="16" />
+        <Button Content="Location" Height="20" Width="60"/>     
+        <!--By Click of this button, get the location in the GetCurrentLocation.cs and update the Center variable here
+            By clicking the Location, mark the current location with a pushpin
+        -->
     </Grid>
 </Window>
    

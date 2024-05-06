@@ -10,7 +10,10 @@
 
   <ItemGroup>
     <PackageReference Include="DotNetBrowser" Version="2.26.1" />
+    <PackageReference Include="Geolocation" Version="1.2.1" />
     <PackageReference Include="Microsoft.Maps.MapControl.WPF" Version="1.0.0.3" />
+    <PackageReference Include="System.Management" Version="8.0.0" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.8.1" />
   </ItemGroup>
 
 </Project>

@@ -12,7 +12,10 @@ using DotNetBrowser;
 using DotNetBrowser.Browser;
 //using DotNetBrowser.
 
-//https://www.bingmapsportal.com/Application
+/*
+    https://learn.microsoft.com/en-us/previous-versions/bing/wpf-control/hh830431(v=msdn.10)
+    https://www.bingmapsportal.com/Application
+*/
 
 namespace GoogleMapsInWPF
 {
